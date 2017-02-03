@@ -1,8 +1,5 @@
 http://docs.google.com/viewer?url=
 
-Anotações
-=========
-
 Faltou
 ------
   Hely
@@ -17,13 +14,14 @@ marçal
 
 di pietro
 
-
+Anotações
+---------
 Administração pública de resultados
------------------------------------
+
 Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 licitação e chamada pública
----------------------------
+
 Princípios
 ----------
 X. Princípios básicos da administração
