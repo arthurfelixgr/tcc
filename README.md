@@ -51,40 +51,22 @@ x.3. O princípio da razoabilidade
 x.4. O princípio da proporcionalidade  
 
 **X. Princípios da administração pública**  
-X.1. Legalidade
-
-x.2. Supremacia do interesse público
-
-x.3. Impessoalidade
-
-x.4. Presunção de legitimidade ou presunção de veracidade
-
-x.5. Especialidade
-
-x.6. Controle ou tutela
-
-x.7. Autotutela
-
-x.8. Hierarquia
-
-x.9. Continuidade do serviço público
-
-x.10. Publicidade
-
-x.11. Moralidade administrativa
-
-x.12. Razoabilidade e proporcionalidade
-
-x.13. Motivação 
-
-x.14. Eficiencia
-
-x.15. Segurança jurídica, proteção à confiança e boa-fé
-
-x.15.1. Segurança jurídica
-
-x.15.2. Proteção à confiança
-
-x.15.3. Boa-fé
-
+X.1. Legalidade  
+x.2. Supremacia do interesse público  
+x.3. Impessoalidade  
+x.4. Presunção de legitimidade ou presunção de veracidade  
+x.5. Especialidade  
+x.6. Controle ou tutela  
+x.7. Autotutela  
+x.8. Hierarquia  
+x.9. Continuidade do serviço público  
+x.10. Publicidade  
+x.11. Moralidade administrativa  
+x.12. Razoabilidade e proporcionalidade  
+x.13. Motivação  
+x.14. Eficiencia  
+x.15. Segurança jurídica, proteção à confiança e boa-fé  
+x.15.1. Segurança jurídica  
+x.15.2. Proteção à confiança  
+x.15.3. Boa-fé  
 x.15.4. Aplicação dos princípios da segurança jurídica,l boa fé e proteção à confiança
