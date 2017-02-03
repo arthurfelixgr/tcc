@@ -19,7 +19,7 @@ licitação e chamada pública
 
 Princípios
 ----------
-X. Princípios básicos da administração  
+**X. Princípios básicos da administração**  
 x.1.Legalidade  
 x.2. Moralidade  
 x.3. Impessoalidade ou finalidade  
