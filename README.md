@@ -7,49 +7,31 @@ Faltou
 
 Contexto histórico
 ------------------
-hely lopes meireles
-
-marçal
-
+hely lopes meireles  
+marçal  
 di pietro
 
 Anotações
 ---------
-Administração pública de resultados
-
-Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.
-
+Administração pública de resultados  
+Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.  
 licitação e chamada pública
 
 Princípios
 ----------
-X. Princípios básicos da administração
+X. Princípios básicos da administração  
+x.1.Legalidade  
+x.2. Moralidade  
+x.3. Impessoalidade ou finalidade  
+x.4. Razoabilidade e proporcionalidade  
+x.5. Publicidade  
+x.6. Eficiencia  
+x.7. Segurança jurídica  
+x.8. Motivação  
+x.9. Ampla defesa e contraditório  
+x.10. Interesse público ou supremacia do interesse público  
 
-x.1.Legalidade
-
-x.2. Moralidade
-
-x.3. Impessoalidade ou finalidade
-
-x.4. Razoabilidade e proporcionalidade
-
-x.5. Publicidade
-
-x.6. Eficiencia
-
-x.7. Segurança jurídica
-
-x.8. Motivação 
-
-x.9. Ampla defesa e contraditório
-
-x.10. Interesse público ou supremacia do interesse público
-
-
-
-
-X. Princípios administrativos
-
+X. Princípios administrativos  
 X.1. Princípios expressos
 
 X.1.1. Princípio da legalidade
