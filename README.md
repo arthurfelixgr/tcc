@@ -1,4 +1,4 @@
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-02.tcc.doc" target="_blank">2017-02-02.tcc.doc</a></td><td>&nbsp;</td></tr>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-02.tcc.doc" target="_blank">2017-02-02.tcc.doc</a>
 
 Faltou
 ------
