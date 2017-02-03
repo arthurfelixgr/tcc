@@ -13,8 +13,10 @@ di pietro
 
 Anotações
 ---------
-Administração pública de resultados  
-Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.  
+Administração pública de resultados
+
+Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.
+
 licitação e chamada pública
 
 Princípios
@@ -29,44 +31,26 @@ x.6. Eficiencia
 x.7. Segurança jurídica  
 x.8. Motivação  
 x.9. Ampla defesa e contraditório  
-x.10. Interesse público ou supremacia do interesse público
+x.10. Interesse público ou supremacia do interesse público  
 
-X. Princípios administrativos  
-X.1. Princípios expressos
+**X. Princípios administrativos**  
+X.1. Princípios expressos  
+X.1.1. Princípio da legalidade  
+X.1.2. Princípio da impessoalidade  
+x.1.3. Princípio da moralidade  
+x.1.4. Princípio da publicidade  
+x.1.5. Princípio da eficiência  
+x.2. Princípios reconhecidos  
+x.2.1. Princípio da supremacia do interesse público  
+x.2.2. Princípio da autotutela  
+x.2.3. Princípio da indisponibilidade  
+x.2.4. Princípio da continuidade dos serviços públicos  
+x.2.5. Princípio da segurança jurídica (proteção à confiança)  
+x.2.6. Princípio da precaução  
+x.3. O princípio da razoabilidade  
+x.4. O princípio da proporcionalidade  
 
-X.1.1. Princípio da legalidade
-
-X.1.2. Princípio da impessoalidade
-
-x.1.3. Princípio da moralidade
-
-x.1.4. Princípio da publicidade
-
-x.1.5. Princípio da eficiência
-
-x.2. Princípios reconhecidos
-
-x.2.1. Princípio da supremacia do interesse público
-
-x.2.2. Princípio da autotutela
-
-x.2.3. Princípio da indisponibilidade
-
-x.2.4. Princípio da continuidade dos serviços públicos
-
-x.2.5. Princípio da segurança jurídica (proteção à confiança)
-
-x.2.6. Princípio da precaução
-
-x.3. O princípio da razoabilidade
-
-x.4. O princípio da proporcionalidade
-
-
-
-
-X. Princípios da administração pública
-
+**X. Princípios da administração pública**  
 X.1. Legalidade
 
 x.2. Supremacia do interesse público
