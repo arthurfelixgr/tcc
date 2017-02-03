@@ -29,7 +29,7 @@ x.6. Eficiencia
 x.7. Segurança jurídica  
 x.8. Motivação  
 x.9. Ampla defesa e contraditório  
-x.10. Interesse público ou supremacia do interesse público  
+x.10. Interesse público ou supremacia do interesse público
 
 X. Princípios administrativos  
 X.1. Princípios expressos
