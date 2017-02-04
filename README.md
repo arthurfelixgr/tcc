@@ -6,13 +6,12 @@ Contexto histórico
 =
 hely lopes meireles  
 marçal  
-di pietro
+di pietro  
+Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.
 
 Anotações
 ---------
 Administração pública de resultados
-
-Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.
 
 licitação e chamada pública
 
