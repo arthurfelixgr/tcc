@@ -16,6 +16,11 @@ Sobre a origem da palavra licitação e seu aparecimento no Direito Administrati
 
 licitação e chamada pública
 
+Lista de autores
+=
+Weida Zancaner
+Cretella
+
 Princípios
 ----------
 **X. Princípios básicos da administração**  
