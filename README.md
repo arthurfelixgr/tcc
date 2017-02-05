@@ -1,6 +1,9 @@
 TCC
 ---
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-02.tcc.doc" target="_blank">2017-02-02.tcc.doc</a>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-02.tcc.doc" target="_blank">2017-02-02.tcc.doc</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-03.tcc.doc" target="_blank">2017-02-03.tcc.doc</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-05.tcc.doc" target="_blank">2017-02-05.tcc.doc</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/historico-referencias.rtf" target="_blank">historico-referencias.rtf</a><br>
 
 Contexto histórico
 =
