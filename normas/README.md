@@ -1,4 +1,4 @@
-NORMAS
+<a href="http://arthurfelixgr.github.io/tcc/normas" target="_blank">NORMAS</a>NORMAS
 ------
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/ABNT%20NBR%206023.pptx" target="_blank">ABNT NBR 6023.pptx</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/manual%20de%20estilo%20academico-2013%20Repositorio2.pdf" target="_blank">manual de estilo academico-2013 Repositorio2.pdf</a><br>
