@@ -1,5 +1,7 @@
 Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração pública. Rio de Janeiro Forense. 1973, p. 13.
 
+Decreto 2.926  
+
 HELY(p284){
 
 A obtenção do contrato mais vantajoso e o resguardo dos dos direitos de possíveis contratados é preocupação que vem desde a Idade Média, e leva os Estados Modernos a aprimorarem cada vez mais o procedimento licitatório, hoje sujeito a princípios, cujo descumprimento descaracteriza o instituto e invalida o seu resultado seletivo.
