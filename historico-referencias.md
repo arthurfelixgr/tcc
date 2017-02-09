@@ -1,4 +1,5 @@
 <html>
+<script>
 Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração pública. Rio de Janeiro Forense. 1973, p. 13.
 
 Decreto 2.926
@@ -32,4 +33,5 @@ Na Constituição de 1967, não havia norma expressa definindo a competência pa
 	A grande dificuldade com que se defrontava o intérprete do Decreto-lei nº. 2.300 decorria da falta de técnica legislativa, que levou seus redatores a inserirem num texto normas gerais, de âmbito nacional, e normas especiais, de âmbito federal, sem qualquer critério orientador que permitisse distinguir umas das outras. Isto levava a resultados negativos, pois a interpretação do que sejam normas gerais variava de um Estado e Município para outro, produzindo resultado oposto ao que levou as Constituições brasileiras, desde 1946, a dar à União competência para estabelecer normas gerais: a uniformização de determinados princípios em todo o território nacional. 
 	No Estado de São Paulo, a Lei nº. 6.544, de 22-11-89, procurou fazer a adaptação da legislação estadual à lei federal, reproduzindo as suas disposições, com pequenas alterações.
 }
+</script>
 </html>
