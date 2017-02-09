@@ -10,3 +10,4 @@ REFERENCIAL
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/referencial/marcal.pdf" target="_blank">marcal.pdf</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/referencial/peticao-inicial.adi-4655.docx" target="_blank">peticao-inicial.adi-4655.docx</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/referencial/peticao-inicial.adi-4655.pdf" target="_blank">peticao-inicial.adi-4655.pdf</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/referencial/pregao-e-historico.pdf" target="_blank">pregao-e-historico.pdf</a><br>
