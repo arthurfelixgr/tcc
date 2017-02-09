@@ -1,24 +1,24 @@
-
+<html>
 Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração pública. Rio de Janeiro Forense. 1973, p. 13.
 
 Decreto 2.926
 
-HELY(p284){
-A obtenção do contrato mais vantajoso e o resguardo dos dos direitos de possíveis contratados é preocupação que vem desde a Idade Média, e leva os Estados Modernos a aprimorarem cada vez mais o procedimento licitatório, hoje sujeito a princípios, cujo descumprimento descaracteriza o instituto e invalida o seu resultado seletivo.
-}
+HELY(p284){  
+A obtenção do contrato mais vantajoso e o resguardo dos dos direitos de possíveis contratados é preocupação que vem desde a Idade Média, e leva os Estados Modernos a aprimorarem cada vez mais o procedimento licitatório, hoje sujeito a princípios, cujo descumprimento descaracteriza o instituto e invalida o seu resultado seletivo.  
+}  
 
-HELY(p284#rodape96){
-Nos estados medievais da Europa usou-se o sistema denominado "vela e pregão", que consistia em apregoar-se a obra desejada e, enquanto ardia uma vela, os construtores interessados faziam suas ofertas. Quando se extinguia a chama, adjudicava-se a obra a quem houvesse oferecido o melhor preço.
-}
+HELY(p284#rodape96){  
+Nos estados medievais da Europa usou-se o sistema denominado "vela e pregão", que consistia em apregoar-se a obra desejada e, enquanto ardia uma vela, os construtores interessados faziam suas ofertas. Quando se extinguia a chama, adjudicava-se a obra a quem houvesse oferecido o melhor preço.  
+}  
 
-HELY(P283){
-Cógigo da Contabilidade Pública da União
-Decreto-Lei 200/67
-Lei 5456/68
-Lei 6946/81
-Decreto-Lei 2300/86
-Lei 86
-}
+HELY(P283){  
+Cógigo da Contabilidade Pública da União  
+Decreto-Lei 200/67  
+Lei 5456/68  
+Lei 6946/81  
+Decreto-Lei 2300/86  
+Lei 86  
+}  
 
 MARÇAL(p495){
 No Brasil, a licitação obrigatória foi imposta por diversos diplomas legislativos, ao longo do tempo. Essa é a tendência verificada no direito comparado. A "Rodada do Uruguai", de 1996, da organização mundial do comercio produziu um acordo sobre contratos adminsitrativos, firmado por 22 países, dentre os quais os integrantes da uniao europeia, os EUA e o Japão, prevendo a adoão de procedimentos seletivos prévios às contrataçãoes administrativas. Mesmo antes disso, a comunidade europeia já adotara a licitação como regra por meio de inúmeras diretivas 9as principais, dos anos 1992 e 1993). Essa orientação foi estendida também à delegação da prestaão de serviços públicos à particulares.
@@ -32,3 +32,4 @@ Na Constituição de 1967, não havia norma expressa definindo a competência pa
 	A grande dificuldade com que se defrontava o intérprete do Decreto-lei nº. 2.300 decorria da falta de técnica legislativa, que levou seus redatores a inserirem num texto normas gerais, de âmbito nacional, e normas especiais, de âmbito federal, sem qualquer critério orientador que permitisse distinguir umas das outras. Isto levava a resultados negativos, pois a interpretação do que sejam normas gerais variava de um Estado e Município para outro, produzindo resultado oposto ao que levou as Constituições brasileiras, desde 1946, a dar à União competência para estabelecer normas gerais: a uniformização de determinados princípios em todo o território nacional. 
 	No Estado de São Paulo, a Lei nº. 6.544, de 22-11-89, procurou fazer a adaptação da legislação estadual à lei federal, reproduzindo as suas disposições, com pequenas alterações.
 }
+</html>
