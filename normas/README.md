@@ -3,7 +3,7 @@
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/ABNT%20NBR%206023.pptx" target="_blank">ABNT NBR 6023.pptx</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/ABNT-MONOGRAFIAS.ppt" target="_blank">ABNT-MONOGRAFIAS.ppt</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/ABNT-RESUMO-MONOGRAFIAS.doc" target="_blank">ABNT-RESUMO-MONOGRAFIAS.doc</a><br>
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/manual%20de%20estilo%20academico-2013%20Repositorio3.pdf" target="_blank">manual de estilo academico-2013 Repositorio3.pdf</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/manual%20de%20estilo%20academico-2013%20Repositorio3.pdf" target="_blank" rel="noopener">manual de estilo academico-2013 Repositorio3.pdf</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/nbr-10520.citacao.pdf" target="_blank">nbr-10520.citacao.pdf</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/nbr-14724.tcc.pdf" target="_blank">nbr-14724.tcc.pdf</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/normas/nbr-6023.referencia.pdf" target="_blank">nbr-6023.referencia.pdf</a><br>
