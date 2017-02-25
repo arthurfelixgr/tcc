@@ -3,25 +3,16 @@
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017-02-05.tcc.doc" target="_blank">2017-02-05.tcc.doc</a><br>
 <a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/historico-referencias.rtf" target="_blank">historico-referencias.rtf</a><br>
 
-Contexto histórico
-=
-hely lopes meireles  
-marçal  
-di pietro  
-
-Sobre a origem da palavra licitação e seu aparecimento no Direito Administrativo brasileiro, veja Carlos Leopoldo Dayrel. Das licitações na administração paulista. Rio de Janeiro Forense. 1973, p. 13.
-
 Anotações
----------
+=
 Administração pública de resultados
 
 licitação e chamada pública
 
 Lista de autores
 -
+Odete Medauar  
 Carlos Leopoldo Dayrell  
-Weida Zancaner  
-Cretella
 
 Princípios
 ----------
