@@ -6,6 +6,11 @@
 
 Anotações
 =
+
+A Lei nº 9.472 de 16 de julho de 1997 surgiu para dispor sobre a organização dos serviços de telecomunicações, criando uma agência reguladora para tal fito, qual seja, Agência Nacional de Telecomunicações (ANaTel). Nesse passo, em seu art. 54, parágrafo único, criou nova modalidade licitatória, denominada “consulta”, que junto com o pregão seria aplicável nos casos para além das contratações de obras e serviços de engenharia civil, regidos pela Lei nº 8.666/93.  
+	No artigo seguinte, a Lei nº 9.784/97  
+
+
 Administração pública de resultados
 
 licitação e chamada pública
