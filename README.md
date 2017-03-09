@@ -1,15 +1,10 @@
 <a href="http://arthurfelixgr.github.io/tcc" target="_blank">TCC</a>
 ---
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.05_tcc.doc" target="_blank">2017.03.05_tcc.doc</a><br>
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/historico-referencias.rtf" target="_blank">historico-referencias.rtf</a><br>
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.05_sumario-provisorio.tcc.pdf" target="_blank">2017.03.05_sumario-provisorio.tcc.pdf</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.08.2_tcc.doc" target="_blank">2017.03.08.2_tcc.doc</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.07_sumario-provisorio-sem-bordas.tcc.pdf" target="_blank">2017.03.07_sumario-provisorio-sem-bordas.tcc.pdf</a><br>
 
 Anotações
 =
-
-A Lei nº 9.472 de 16 de julho de 1997 surgiu para dispor sobre a organização dos serviços de telecomunicações, criando uma agência reguladora para tal fito, qual seja, Agência Nacional de Telecomunicações (ANaTel). Nesse passo, em seu art. 54, parágrafo único, criou nova modalidade licitatória, denominada “consulta”, que junto com o pregão seria aplicável nos casos para além das contratações de obras e serviços de engenharia civil, regidos pela Lei nº 8.666/93.  
-	No artigo seguinte, a Lei nº 9.784/97  
-
 
 Administração pública de resultados
 
