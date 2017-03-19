@@ -1,7 +1,7 @@
 <a href="http://arthurfelixgr.github.io/tcc" target="_blank">TCC</a>
 ---
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.08.2_tcc.doc" target="_blank">2017.03.08.2_tcc.doc</a><br>
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.07_sumario-provisorio-sem-bordas.tcc.pdf" target="_blank">2017.03.07_sumario-provisorio-sem-bordas.tcc.pdf</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.19_tcc.doc" target="_blank">2017.03.19_tcc.doc</a><br>
+<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/sumario-minucioso.tcc.pdf" target="_blank">sumario-minucioso.tcc.pdf</a><br>
 
 Anotações
 =
@@ -12,7 +12,7 @@ licitação e chamada pública
 Programa
 =
 ```
-corrigir e atualizar todas as referencias a Hely;
+Corrigir e atualizar todas as referencias a Hely;
 
 Introdução(3){  
 	Marçal se refere a crise no serviço público: BOM PRA INTRODUÇÃO; 
