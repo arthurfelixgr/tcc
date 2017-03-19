@@ -12,9 +12,18 @@ licitação e chamada pública
 Programa
 =
 ```
+corrigir e atualizar todas as referencias a Hely;
+
 Introdução(3){  
 	Marçal se refere a crise no serviço público: BOM PRA INTRODUÇÃO; 
 }  
+
+Capítulo 2{
+	a cf e a lei 86{
+		abrir paragrafo trazendo o valor como criterio de escolha entre as modalidades;
+		pesquisar doutrina que aborde dessa forma;
+	}
+}
 
 RDC1(7){  
 	Introdução(1,5)  
