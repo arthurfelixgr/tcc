@@ -56,7 +56,9 @@ RDC2(7){
 		desenvolvimento;  
 		atualizar opinião de Carvalho Filho;  
 	}  
-	inconstitucionalidades(2);  
+	inconstitucionalidades(2){
+		referenciar Gilmar;
+	}
 }  
 
 Projeto(4){  
