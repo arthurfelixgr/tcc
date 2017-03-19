@@ -11,9 +11,9 @@ licitação e chamada pública
 
 Programa
 =
-```html
+```
 Introdução(3){  
-<font color="red">Marçal se refere a crise no serviço público: BOM PRA INTRODUÇÃO;</font>  
+	Marçal se refere a crise no serviço público: BOM PRA INTRODUÇÃO; 
 }  
 
 RDC1(7){  
