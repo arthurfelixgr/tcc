@@ -13,7 +13,7 @@ Programa
 =
 ```
 
-Corrigir e atualizar todas as referencias a Hely;
+corrigir e atualizar todas as referencias a Hely;
 
 Introdução(3){  
 	Marçal se refere a crise no serviço público: BOM PRA INTRODUÇÃO; 
