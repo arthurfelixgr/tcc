@@ -62,13 +62,7 @@ RDC2(7){
 }  
 
 Projeto(4){  
-	introdução{  
-		DI PIETRO em temas polêmicos;  
-		MARÇAL(p500){  
-			Confirmando a previsão de marçal... [251];  
-		}  
-		gasparini(761) aponta falta de tecnica legislativa no RDC;  
-	}  
+	introdução;    
 }  
 
 Conclusão(3);  
