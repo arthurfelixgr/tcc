@@ -1,7 +1,7 @@
 <a href="http://arthurfelixgr.github.io/tcc" target="_blank">TCC</a>
 ---
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/2017.03.28.3_tcc.doc" target="_blank">2017.03.28.3_tcc.doc</a><br>
-<a href="http://docs.google.com/viewer?url=https://github.com/arthurfelixgr/tcc/raw/master/sumario-minucioso.tcc.pdf" target="_blank">sumario-minucioso.tcc.pdf</a><br>
+<a href="https://arthurfelixgr.github.io/tcc/2017.04.05.1_tcc.pdf" target="_blank">2017.04.05.1_tcc.pdf</a><br>
+<a href="https://arthurfelixgr.github.io/tcc/sumario-minucioso.tcc.pdf" target="_blank">sumario-minucioso.tcc.pdf</a><br>
 
 Anotações
 =
